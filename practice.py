@@ -4,7 +4,7 @@ st.caption('Welcome to the Capybara World')
 def main_page():
     st.title('MainPage')
     st.header("Hi, My name is **Capybara**")
-    st.image("https://files.oaiusercontent.com/file-RXgPugPD8VR8hhWqW6oShS?se=2024-12-18T06%3A48%3A47Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D92f6d024-011a-4226-90c3-96acea6c5180.webp&sig=HDwGlEqxa5vo8891UnCjnzx5r9P5ft7gc3nAhc3AW%2BE%3D")
+    st.image("https://i.kym-cdn.com/photos/images/original/001/551/402/80c.jpeg")
 
 def page2():
     st.title('Page2')
